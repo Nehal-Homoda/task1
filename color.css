@@ -1,0 +1,19 @@
+.style{
+    margin:200px 400px;
+    width:500px;
+    text-align: center;
+    background-position: center;
+}
+.Rd{
+    color: red;
+    display: inline;
+    white-space: 10;
+}
+.grn{
+    color:green;
+    display: inline;
+}
+.blu{
+    color:blue;
+    display: inline;
+}
